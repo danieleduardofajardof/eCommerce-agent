@@ -1,10 +1,10 @@
-### eCommerce-Agent
+# eCommerce-Agent
 
 ## Overview
 
 This project is an AI-powered eCommerce chatbot that provides product information and checks stock availability. It integrates with OpenAI's API using function calling to handle user queries efficiently.
 
-# Features
+### Features
 
 Retrieves product details
 
@@ -14,7 +14,7 @@ Uses OpenAI function calling
 
 FastAPI backend for API handling
 
-# Technologies Used
+### Technologies Used
 
 Python
 
@@ -28,7 +28,7 @@ JSON
 
 Git
 
-# Setup Instructions
+### Setup Instructions
 
 1. Clone the Repository
 
@@ -91,7 +91,7 @@ Ensure your .env file is not committed by adding it to .gitignore:
 
 .env
 
-# License
+### License
 
 MIT License
 
